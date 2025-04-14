@@ -2,8 +2,6 @@
 
 A simple and efficient tool to automatically change your IP address using Tor network at regular intervals.
 
-<img width="800" alt="banner" src="https://github.com/user-attachments/assets/a5554d67-a655-4f42-b0c4-ef9272ba8e76" />
-
 ## Features
 
 - 🔄 Automatic IP rotation at user-defined intervals
