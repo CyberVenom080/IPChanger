@@ -29,7 +29,7 @@ A simple and efficient tool to automatically change your IP address using Tor ne
 ## Run without Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/techchipnet/ip-changer.git
+https://github.com/CyberVenom080/IPChanger.git
 cd ip-changer
 ```
 
@@ -48,7 +48,7 @@ sudo ./ip-changer.sh
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/techchipnet/ip-changer.git
+git clone  https://github.com/CyberVenom080/IPChanger.git
 cd ip-changer
 ```
 
